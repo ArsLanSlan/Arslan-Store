@@ -22,7 +22,7 @@ header {
     margin-bottom: 20px;
 }
 
-.card > img {
-    
+a {
+    text-decoration: none;
+    color: #fff;
 }
-
